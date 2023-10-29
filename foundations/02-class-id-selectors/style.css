@@ -1,0 +1,19 @@
+/*Exercise Two*/
+.pink-color{
+    background-color: pink;
+    font-family: Verdana, sans-serif, DejaVu Sans;
+}
+#unique1 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-change{
+    font-size: 24px;
+}
+#unique2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
